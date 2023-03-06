@@ -1,0 +1,10 @@
+django
+djangorestframework
+psycopg2
+pyyaml
+django-rest-swagger
+drf-spectacular
+uritemplate
+redis
+celery
+django-celery-results

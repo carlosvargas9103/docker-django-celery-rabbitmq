@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+djangorestframework = "*"
+psycopg2 = "*"
+PyYAML = "*"
+django-rest-swagger = "*"
+uritemplate = "*"
+redis = "*"
+celery = "*"
+drf-spectacular = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
